@@ -7,6 +7,7 @@ You need to do this in order to play Super Mario Galaxy Cosmic Chaos on Dolphin.
 5. Paste in the contents of 'COPYME_dolphin.txt' into the 'User Config' field
 6. Close the properties window and open it again (to reload it)
 7. Navigate to 'Gecko Codes' tab and if you did everything correctly,
-   the code to get the game to work should be there and enabled
+   the code to get the game to work should be there and enabled. There should
+   also be a code for each region, please enable the one your game is from.
 
 Have fun :)

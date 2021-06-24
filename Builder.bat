@@ -26,7 +26,7 @@ CLS
 echo /===========================================\
 echo I Let's Start by choosing the disc image... I
 echo \===========================================/
-SET /P  isoFile=Please enter the name of your disc image. (e.g. SMG2.iso, SMG2.wbfs): 
+SET /P  isoFile=Please enter the name of your disc image. (e.g. SMG.iso, SMG.wbfs): 
 if not defined isoFile GOTO :Build_Iso
 if not exist ".\%isoFile%" (
 	echo /====================================\
@@ -109,7 +109,7 @@ CLS
 echo /===========================================\
 echo I Let's Start by choosing the disc image... I
 echo \===========================================/
-SET /P  isoFile=Please enter a name of your disc image file. (e.g. SMG2.iso, SMG2.wbfs): 
+SET /P  isoFile=Please enter a name of your disc image file. (e.g. SMG.iso, SMG.wbfs): 
 if not defined isoFile GOTO :Change_GameID
 if not exist ".\%isoFile%" (
 	echo /====================================\
