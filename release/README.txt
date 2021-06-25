@@ -8,7 +8,7 @@ Wiimm's ISO Tools (or WIT for short), you can get it here: https://wit.wiimm.de/
 
 - There are instructions on-screen to build the mod
 
-- Follow the steps in 'Dolphin Guide.txt' or if you're playing on USB Loader GX, follow 'USB Loader GX Guide.txt'
+- Follow the steps in 'Dolphin Guide.txt', USB loaders are not currently supported, as the gecko code would end up being too long.'
 
 
 Thanks to:
