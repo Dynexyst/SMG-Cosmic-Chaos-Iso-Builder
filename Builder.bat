@@ -1,6 +1,6 @@
 @ECHO off
 :Builder
-echo v1.2
+echo v1.3
 echo /=============================================================\
 echo I     Make sure you have WIT (Wiimms ISO Tool) installed!     I
 echo I                   What do you want to do?                   I
